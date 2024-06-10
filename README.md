@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Alex-gikungu
+- 👀 I’m interested in project development, collaborations in open projects, and networking.
+- 🌱 I’m currently learning Linux and Python.
+- 💞️ I’m looking to collaborate on open-source projects.
+- 📫 How to reach me: 
+  - Phone: 0112043557
+  - Email: alexigikungu.012@example.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a fullstack developer with a strong foundation in backend development, always eager to learn and take on new challenges.
