@@ -58,7 +58,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Alex-gikungu/Alex-gikungu/output/snake.svg" alt="Snake animation" />
+## <img src="https://raw.githubusercontent.com/Alex-gikungu/Alex-gikungu/output/snake.svg" alt="Snake animation" /> ##
 
 ###
 
