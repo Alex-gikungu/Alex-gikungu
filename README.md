@@ -52,14 +52,14 @@
 
 <h3 align="left">🐍 Contribution Snake</h3>
 <div align="center">
-  <img src="https://github.com/Alex-gikungu/Alex-gikungu/raw/main/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Alex-gikungu/Alex-gikungu/main/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
 
 <h3 align="left">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-gikungu&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Alex-gikungu&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ###
