@@ -59,7 +59,7 @@
 
 <h3 align="left">📊 GitHub Streak</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-gikungu&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-gikungu&theme=dracula&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ###
