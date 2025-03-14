@@ -59,7 +59,7 @@
 
 <h3 align="left">📊 GitHub Streak</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Alex-gikungu&theme=dracula&hide_border=false&locale=en" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-gikungu&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ###
