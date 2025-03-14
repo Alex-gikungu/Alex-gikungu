@@ -50,16 +50,16 @@
 
 ###
 
-<h3 align="left">🐍 Contribution Snake</h3>
+<h3 align="left">🌐 Contribution Grid Animation</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alex-gikungu/Alex-gikungu/main/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-gikungu&theme=dracula&hide_border=false&area=true" alt="Contribution Grid Animation" />
 </div>
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Streak</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alex-gikungu&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Alex-gikungu&theme=dracula&hide_border=false&locale=en" alt="GitHub Streak" />
 </div>
 
 ###
