@@ -52,7 +52,7 @@
 
 <h3 align="left">🐍 Contribution Snake</h3>
 <div align="center">
-  <img src="https://github.com/Alex-gikungu/Alex-gikungu/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Alex-gikungu/Alex-gikungu/raw/main/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
