@@ -36,15 +36,33 @@
 
 ### 📱 Connect with Me
 <div align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> |
-  <a href="https://twitter.com/AlexiGikun71556" target="_blank">Twitter</a> |
-  <a href="mailto:your-email@gmail.com" target="_blank">Email</a> |
-  <a href="https://discord.com/users/your-discord" target="_blank">Discord</a> |
-  <a href="https://github.com/Alex-gikungu" target="_blank">GitHub</a> |
-  <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">StackOverflow</a> |
-  <a href="https://instagram.com/your-instagram" target="_blank">Instagram</a> |
-  <a href="https://medium.com/@your-medium" target="_blank">Medium</a> |
-  <a href="https://dev.to/your-devto" target="_blank">DEV.to</a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/AlexiGikun71556" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/your-discord" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  </a>
+  <a href="https://github.com/Alex-gikungu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
+  </a>
+  <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=F58025&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="StackOverflow" />
+  </a>
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://medium.com/@your-medium" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium" />
+  </a>
+  <a href="https://dev.to/your-devto" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=DEV.to&logo=dev-dot-to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="DEV.to" />
+  </a>
 </div>
 
 ---
