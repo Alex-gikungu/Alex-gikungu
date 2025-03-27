@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alex  and I'm a Software Developer, from somewhere in Africa*.</h2>
-
+<h1 align="left">Hello 👋! I'm Alex, a Software Developer crafting code from the heart of Kenya.</h1>
 ###
 
 <div align="center">
