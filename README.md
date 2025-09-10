@@ -67,7 +67,7 @@ I'm a full-stack developer with a love for clean architecture, resilient debuggi
 
 - 🥇 Winner of Kiambu Hackathon 2024  
 - 🧩 Contributor to Open Source Project [Ceph](https://github.com/ceph/ceph)  
-- 📈 10K+ downloads on NPM package [your-package-name]  
+- 📈 10K+ downloads on NPM package  
 
 ---
 
