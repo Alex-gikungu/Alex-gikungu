@@ -1,19 +1,21 @@
-<h1 align="center">Hi there 👋, I'm Alexi — Full-Stack Developer from Kenya 🇰🇪</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Hi+there+👋,+I'm+Alexi;Full-Stack+Developer+from+Kenya;Crafting+impactful+software+solutions" />
+</h1>
 
-<p align="center">Crafting scalable systems and intuitive user experiences with precision and passion.</p>
+<p align="center">Building scalable systems and intuitive user experiences with precision and passion.</p>
 
 ---
 
 ### 🧭 About Me
 
-I'm a passionate full-stack developer with a knack for building modular backend systems and elegant front-end interfaces. I thrive on solving complex problems and turning ideas into impactful software. When I'm not coding, you'll find me exploring new frameworks, mentoring junior devs, or contributing to open-source projects.
+I'm a full-stack developer with a love for clean architecture, resilient debugging, and elegant UI/UX. I thrive in collaborative environments and enjoy turning complex problems into maintainable solutions. When I'm not coding, I'm exploring new frameworks, contributing to open-source, or mentoring junior devs.
 
 ---
 
 ### 🚧 Currently Building
 
-- 🛠️ **AgriTrack** — A smart dashboard for tracking crop yields and weather patterns using Django + React  
-- 📦 **DevPulse** — A CLI tool for monitoring GitHub activity and commit health  
+- 🛠️ **AgriTrack** — Smart dashboard for crop yield and weather analytics (Django + React)  
+- 📦 **DevPulse** — CLI tool for GitHub commit health and activity tracking  
 - 🔬 Experimenting with **Rust** and **WebAssembly** for high-performance web apps  
 
 ---
@@ -21,16 +23,16 @@ I'm a passionate full-stack developer with a knack for building modular backend 
 ### 📚 Currently Learning
 
 - 🧠 Rust for systems programming  
-- 📱 React Native for cross-platform mobile development  
+- 📱 React Native for mobile development  
 - 🧪 Advanced testing strategies with Pytest and Playwright  
 
 ---
 
 ### 📌 Featured Projects
 
-- 🔗 [AgriTrack](https://github.com/Alex-gikungu/agritrack) — Smart agriculture dashboard built with Django & React  
-- 🔗 [DevPulse](https://github.com/Alex-gikungu/devpulse) — GitHub commit health CLI tool  
-- 🔗 [Portfolio Site](https://github.com/Alex-gikungu/portfolio) — Personal site showcasing my work and writing  
+- 🔗 [AgriTrack](https://github.com/Alex-gikungu/agritrack) — Smart agriculture dashboard  
+- 🔗 [DevPulse](https://github.com/Alex-gikungu/devpulse) — GitHub commit health CLI  
+- 🔗 [Portfolio Site](https://github.com/Alex-gikungu/portfolio) — Personal site showcasing my work  
 
 ---
 
@@ -79,19 +81,15 @@ I'm a passionate full-stack developer with a knack for building modular backend 
 
 ---
 
-### 🐍 GitHub Activity
+### 🔥 GitHub Highlights
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alex-gikungu/Alex-gikungu/output/snake.svg" alt="Snake animation" />
-  <img src="https://raw.githubusercontent.com/Alex-gikungu/Alex-gikungu/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-</div>
-
----
-
-### 👀 Visitor Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Alex-gikungu/count.svg?" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alex-gikungu&theme=dracula&margin-w=10&margin-h=10&no-frame=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-gikungu&theme=dracula&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-gikungu&show_icons=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex-gikungu&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
 
 ---
