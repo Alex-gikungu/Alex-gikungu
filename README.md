@@ -98,5 +98,5 @@ I'm a full-stack developer with a love for clean architecture, resilient debuggi
 ### 💻 Fun Fact
 
 <div align="center">
-  <img height="300" src="https://iconscout.com/lottie-animation/programmer-animated-icon_11539223" />
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXlrajE0dnhidjRpdmtnY2k1cHg4ZjNnbGgxc3RsMzlrMzg1NzNyciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/wUekZ8kF515hluZBKc/giphy.gif" />
 </div>
