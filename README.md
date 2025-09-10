@@ -98,5 +98,5 @@ I'm a full-stack developer with a love for clean architecture, resilient debuggi
 ### 💻 Fun Fact
 
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" />
+  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVzNG81c3RkeGg3emIzc2g3dWNxOWYwZGFycW1pOGw2NWlnemd5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif" />
 </div>
