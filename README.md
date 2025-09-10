@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Hi+there+👋,+I'm+Alexi;Full-Stack+Developer+from+Kenya;Crafting+impactful+software+solutions" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Hi+there+👋,+I'm+Alexi;Full-Stack+Developer+from+Kenya;Crafting+impactful+software+solutions" />
+
 </h1>
 
 <p align="center">Building scalable systems and intuitive user experiences with precision and passion.</p>
