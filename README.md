@@ -1,101 +1,103 @@
-<h1 align="left">Hello 👋! I'm Alex, a Software Developer crafting code from the heart of Kenya.</h1>
+<h1 align="center">Hi there 👋, I'm Alexi — Full-Stack Developer from Kenya 🇰🇪</h1>
+
+<p align="center">Crafting scalable systems and intuitive user experiences with precision and passion.</p>
+
+---
+
+### 🧭 About Me
+
+I'm a passionate full-stack developer with a knack for building modular backend systems and elegant front-end interfaces. I thrive on solving complex problems and turning ideas into impactful software. When I'm not coding, you'll find me exploring new frameworks, mentoring junior devs, or contributing to open-source projects.
+
+---
+
+### 🚧 Currently Building
+
+- 🛠️ **AgriTrack** — A smart dashboard for tracking crop yields and weather patterns using Django + React  
+- 📦 **DevPulse** — A CLI tool for monitoring GitHub activity and commit health  
+- 🔬 Experimenting with **Rust** and **WebAssembly** for high-performance web apps  
+
+---
+
+### 📚 Currently Learning
+
+- 🧠 Rust for systems programming  
+- 📱 React Native for cross-platform mobile development  
+- 🧪 Advanced testing strategies with Pytest and Playwright  
+
+---
+
+### 📌 Featured Projects
+
+- 🔗 [AgriTrack](https://github.com/Alex-gikungu/agritrack) — Smart agriculture dashboard built with Django & React  
+- 🔗 [DevPulse](https://github.com/Alex-gikungu/devpulse) — GitHub commit health CLI tool  
+- 🔗 [Portfolio Site](https://github.com/Alex-gikungu/portfolio) — Personal site showcasing my work and writing  
+
+---
+
+### 🧰 Tech Toolbox
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-gikungu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex-gikungu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,csharp,django,fastapi,flask,mysql,gitlab,postman" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-</div>
+### 💼 What I Do
 
-###
+- 🔐 Build secure, modular backend systems  
+- 🎨 Design intuitive, responsive UIs  
+- 🧪 Debug across stacks with resilience  
+- 📝 Write clear documentation & technical content  
+- 🤝 Collaborate with empathy and precision  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-</div>
+---
 
-###
+### 📝 Blog & Writing
 
-<img src="https://raw.githubusercontent.com/Alex-gikungu/Alex-gikungu/output/snake.svg" alt="Snake animation" />
+- 📄 [How to Build a REST API with FastAPI](https://yourblog.com/article)  
+- 📄 [Debugging Across Stacks](https://yourblog.com/article2)  
+- 📄 [Designing Scalable Systems](https://yourblog.com/article3)  
 
-###
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-</div>
+### 🏆 Achievements
 
-###
+- 🥇 Winner of Kiambu Hackathon 2024  
+- 🧩 Contributor to Open Source Project [Ceph](https://github.com/ceph/ceph)  
+- 📈 10K+ downloads on NPM package [your-package-name]  
 
-<br clear="both">
+---
+
+### 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Alex-gikungu/count.svg?"  />
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-###
+---
 
-<p align="left"></p>
-
-###
-
-<br clear="both">
+### 🐍 GitHub Activity
 
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif"  />
+  <img src="https://raw.githubusercontent.com/Alex-gikungu/Alex-gikungu/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Alex-gikungu/Alex-gikungu/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/Alex-gikungu/Alex-gikungu/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+### 👀 Visitor Count
 
-###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Alex-gikungu/count.svg?" />
+</div>
+
+---
+
+### 💻 Fun Fact
+
+<div align="center">
+  <img height="300" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" />
+</div>
